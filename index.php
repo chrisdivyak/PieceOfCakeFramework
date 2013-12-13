@@ -12,10 +12,13 @@
 <meta name="viewport" content="width=device-width">
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+<!-- STYLESHEETS -->
 <link rel="stylesheet" href="assets/css/main.css"/>
 
 <!--JQUERY CODES GO HERE -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.1.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/main.js"></script>

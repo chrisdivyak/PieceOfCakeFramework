@@ -1,6 +1,4 @@
 $(window).ready(function () {
-	$('body').hide();
-	$('body').fadeIn(300);
 
 	//LAZY LOAD SCRIPTS
 	$('table').exists(function() {
