@@ -5,7 +5,7 @@ A simple HTML5/CSS3 framework that keeps 508 accessibility guidelines in tact.
 
 <h3>What makes the kraken so special?</h3>
 
-This is a lightweight, commented, responsive framework that makes building responsive websites that much easier.
+This is a lightweight, commented, responsive framework that makes building responsive websites that much easier. Based on the boilerplate framework.
 
 <h3>What's included?</h3>
 
@@ -14,7 +14,7 @@ This is a lightweight, commented, responsive framework that makes building respo
  - responsive tables
  - responsive video embeds
 
-<a href="http://www.chrisdivyak.com/dev/framework">View Demo</a>
+<a href="http://www.chrisdivyak.com/dev/framework" target="_blank">View Demo</a>
 <h3>License</h3>
 
 Copyright (C) 2013 Chris Divyak (http://www.chrisdivyak.com/)
