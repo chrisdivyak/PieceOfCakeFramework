@@ -1,22 +1,21 @@
 The-Kraken-Responsive-Framework
 ===============================
 
-A simple HTML5/CSS3 framework that keep 508 accessibility guidelines in tact. 
+A simple HTML5/CSS3 framework that keeps 508 accessibility guidelines in tact. 
 
-What makes the kraken so special?
+<h3>What makes the kraken so special?</h3>
 
 This is a lightweight, commented, responsive framework that makes building responsive websites that much easier.
 
-What's included?
+<h3>What's included?</h3>
 
  - modernizr.js
-- flexnav.js
+ - flexnav.js
  - responsive tables
  - responsive video embeds
- - flexnav.js
 
-
-
+<a href="http://www.chrisdivyak.com/dev/framework">View Demo</a>
+<h3>License</h3>
 
 Copyright (C) 2013 Chris Divyak (http://www.chrisdivyak.com/)
 
