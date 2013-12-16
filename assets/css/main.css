@@ -545,7 +545,9 @@ footer li{
 	.video-embed,
 	.embed_media,
 	.half .video-embed,
-	.half .embed_media  {
+	.half .embed_media,
+	.three-quarter .video-embed,
+	.three-quarter .embed_media   {
 		width: 256px;
 		height: 144px;
 		}

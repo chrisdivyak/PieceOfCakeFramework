@@ -12,14 +12,11 @@
 <meta name="viewport" content="width=device-width">
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-
-<!-- STYLESHEETS -->
 <link rel="stylesheet" href="assets/css/main.css"/>
+<link rel="stylesheet" href="assets/css/flexnav.css"/>
 
 <!--JQUERY CODES GO HERE -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.1.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/main.js"></script>
 
@@ -38,7 +35,7 @@
 
 
 <!-- MAIN FLEX NAV -->
-<nav role="navigation" aria-labelledby="main-navigation" class="box">
+<nav role="navigation" aria-labelledby="main-navigation">
 <div class="menu-button">Menu</div>
 <ul data-breakpoint="800" class="flexnav" id="main-navigation">
 	<li><a href="">Item 1</a>
@@ -99,13 +96,14 @@
 
 
 <!-- CONTENT STARTS HERE -->
-<section role="main" id="main" class="box clearfix">
+<section role="main" id="main" class="clearfix">
 <article role="article">
 	<div class="single box clearfix">
 		<p>This is .single</p>
 		<div class="embed_media">
 			<iframe src="http://player.vimeo.com/video/67621971" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</div>
+	
 	</div>
 
 <div class="clearfix">
@@ -226,9 +224,9 @@
 
 
 <!-- FOOTER -->
-<footer role="contentinfo" class="box clearfix">
-<nav role="navigation" aria-labelledby="footer-navigation">
-<ul id="footer-navigation">
+<footer role="contentinfo" class="clearfix">
+<nav role="navigation" aria-labelledby="footer-navigation"> 
+<ul id="footer-navigation" class="box">
 	<li><a href="#">This is a link</a></li>
 	<li><a href="#">This is a link</a></li>
 	<li><a href="#">This is a link</a></li>
