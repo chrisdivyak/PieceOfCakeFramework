@@ -14,7 +14,7 @@ This is a lightweight, commented, responsive framework that makes building respo
  - responsive tables
  - responsive video embeds
 
-<a href="http://www.chrisdivyak.com/dev/framework" target="_blank">View Demo</a>
+<a href="http://chrisdivyak.com/dev/framework/" target="_blank">View Demo</a>
 <h3>License</h3>
 
 Copyright (C) 2013 Chris Divyak (http://www.chrisdivyak.com/)
