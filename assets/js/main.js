@@ -1,4 +1,6 @@
 $(window).ready(function () {
+	$('body').hide();
+	$('body').fadeIn(300);
 
 	//LAZY LOAD SCRIPTS
 	$('table').exists(function() {
@@ -7,7 +9,10 @@ $(window).ready(function () {
 
 	//FLEXNAV
 	$('.flexnav').exists(function() {
-		$(".flexnav").flexNav();
+		//INITIALIZE FLEXNAV
+		$(".flexnav").flexNav({
+			'hoverIntent': true // Change to true for use with hoverIntent plugin
+		});
 		$('head').append('<link rel="stylesheet" type="text/css" href="assets/css/flexnav.css">');
 	});
 });
