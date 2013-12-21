@@ -3,9 +3,9 @@
 
 A simple HTML5/CSS3 framework that keeps 508 accessibility guidelines in tact. 
 
-<h3>What makes itso special?</h3>
+<h3>What makes it so special?</h3>
 
-This is a lightweight, commented, responsive framework that makes building responsive websites that much easier. Based on the boilerplate framework.
+Are you tired of bloated frameworks like Bootstrap? This is a lightweight, commented, responsive framework that makes building responsive websites that much easier. Based on the boilerplate framework.
 
 <h3>What's included?</h3>
 
