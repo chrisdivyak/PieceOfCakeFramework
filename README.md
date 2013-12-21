@@ -1,9 +1,9 @@
-The-Kraken-Responsive-Framework
+<img src="http://code-baker.com/assets/images/pieceofcakeblack-logo.jpg" alt="Piece of Cake Framework"/>
 ===============================
 
 A simple HTML5/CSS3 framework that keeps 508 accessibility guidelines in tact. 
 
-<h3>What makes the kraken so special?</h3>
+<h3>What makes itso special?</h3>
 
 This is a lightweight, commented, responsive framework that makes building responsive websites that much easier. Based on the boilerplate framework.
 
@@ -14,11 +14,27 @@ This is a lightweight, commented, responsive framework that makes building respo
  - responsive tables
  - responsive video embeds
 
-<a href="http://chrisdivyak.com/dev/framework/" target="_blank">View Demo</a>
+<a href="http://code-baker.com/demos/pieceofcake" target="_blank">View Demo</a>
 <h3>License</h3>
 
-Copyright (C) 2013 Chris Divyak (http://www.chrisdivyak.com/)
+Copyright (C) 2013 <a href="http://www.chrisdivyak.com/">Chris Divyak </a>
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+The MIT License (MIT)
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
