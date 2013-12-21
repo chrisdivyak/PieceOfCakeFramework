@@ -14,7 +14,7 @@ Are you tired of bloated frameworks like Bootstrap? This is a lightweight, comme
  - responsive tables
  - responsive video embeds
 
-<a href="http://code-baker.com/demos/pieceofcake" target="_blank">View Demo</a>
+<a href="http://code-baker.com/demo/PieceOfCakeFramework" target="_blank">View Demo</a>
 <h3>License</h3>
 
 Copyright (C) 2013 <a href="http://www.chrisdivyak.com/">Chris Divyak </a>
