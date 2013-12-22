@@ -7,9 +7,6 @@ $(window).ready(function () {
 		$.loadScript('assets/js/stackable-tables.js', true);
 	});
 
-	//INITIALIZE FLEXNAV
-	$(".flexnav").flexNav({
-		'hoverIntent': true // Change to true for use with hoverIntent plugin
-	});
+    $('nav.applePie').easyPie();
 
 });

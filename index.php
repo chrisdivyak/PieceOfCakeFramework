@@ -13,12 +13,13 @@
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <link rel="stylesheet" href="assets/css/main.css"/>
-<link rel="stylesheet" href="assets/css/flexnav.css"/>
 
 <!--JQUERY CODES GO HERE -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/main.js"></script>
+
+
 
 </head>
 <body>
@@ -35,64 +36,70 @@
 
 
 <!-- MAIN FLEX NAV -->
-<nav role="navigation" aria-labelledby="main-navigation">
-<div class="menu-button">Menu</div>
-<ul data-breakpoint="800" class="flexnav" id="main-navigation">
-	<li><a href="">Item 1</a>
-        <ul>
-           <li> <a href="#content">Sub 1 Item 1</a></li>
-           <li><a href="">Sub 1 Item 2</a></li>
-            <li><a href="">Sub 1 Item 3</a></li>
-           <li><a href="">Sub 1 Item 4</a></li>
-        </ul>
-    </li>
-    <li><a href="">Item 2</a>
-        <ul>
-            <li><a href="">Sub 1 Item 1</a></li>
-            <li><a href="">Sub 1 Item 2</a>
-            <ul>
-                <li><a href="">Sub 2 Item 1</a></li>
-                <li><a href="">Sub 2 Item 2</a></li>
-                <li><a href="">Sub 2 Item 3</a></li>
-            </ul>
-            </li>
-            <li><a href="">Sub 1 Item 3</a>
-            <ul>
-                <li><a href="">Sub 2 Item 1</a></li>
-                <li><a href="">Sub 2 Item 2</a>
-                 <ul>
-                     <li><a href="">Sub 3 Item 1</a></li>
-                     <li><a href="">Sub 3 Item 2</a></li>
-                     <li><a href="">Sub 3 Item 3</a></li>
-                 </ul>
-                 </li>
-            </ul>
-            </li>
-        </ul>
-        </li>
-    <li><a href="">Item 3</a>
-    <ul>
-        <li><a href="">Sub 1 Item 1</a></li>
-        <li><a href="">Sub 1 Item 2</a></li>
-        <li><a href="">Sub 1 Item 3</a></li>
-    </ul>
-    </li>
-    <li><a href="">Item 4</a>
-    <ul>
-        <li><a href="">Sub 1 Item 1</a></li>
-        <li><a href="">Sub 1 Item 2</a></li>
-        <li><a href="">Sub 1 Item 3</a></li>
-    </ul>
-    </li>
-    <li><a href="">Item 5</a>
-    <ul>
-        <li><a href="">Sub 1 Item 1</a></li>
-        <li><a href="">Sub 1 Item 2</a></li>
-        <li><a href="">Sub 1 Item 3</a></li>
-    </ul>
-    </li>
+<nav class="applePie" role="navigation" aria-labelledby="nav">
+<div class="menubtn">Menu Button</div>
+<ul id="nav">
+	<li><a href="#">Fruit Pies</a>
+		<ul>
+			<li><a href="#">Spring</a>
+				<ul>
+					<li><a href="#">Exotic Pies</a>
+						<ul>
+							<li><a href="#">Pineapple Pie</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Blueberry Pie</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Summer</a>
+				<ul>
+					<li><a href="#">Peach Pie</a></li>
+					<li><a href="#">Strawberry Pie</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Fall</a>
+				<ul>
+					<li><a href="#">Pumpkin Pie</a></li>
+					<li><a href="#">Apple Pie</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Winter</a>
+				<ul>
+					<li><a href="#">Pear Pie</a></li>
+					<li><a href="#">Persimmons Pie</a></li>
+				</ul>
+			</li>
+
+		</ul>
+	</li>
+
+	<li><a href="#">Dessert Pies</a>
+		<ul>
+			<li><a href="#">Pumpkin Pie</a>
+				<ul>
+					<li><a href="#">Maple Pumpkin Pie</a></li>
+					<li><a href="#">Cocoa Pumpkin Pie</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Peanut Butter Pie</a></li>
+			<li><a href="#">Whoopie Pies</a></li>
+
+		</ul>
+	</li>
+
+	<li><a href="#">Hearty Pie</a>
+		<ul>
+			<li><a href="#">Sheppards Pie</a></li>
+			<li><a href="#">Chicken Pot Pie</a></li>
+			<li><a href="#">Mushroom Pie</a></li>
+			<li><a href="#">Spinach Pie</a></li>
+		</ul>
+	</li>
+
+
 </ul>
 </nav>
+
 
 
 <!-- CONTENT STARTS HERE -->
@@ -225,13 +232,11 @@
 
 <!-- FOOTER -->
 <footer role="contentinfo" class="clearfix">
-<nav role="navigation" aria-labelledby="footer-navigation"> 
 <ul id="footer-navigation" class="box">
 	<li><a href="#">This is a link</a></li>
 	<li><a href="#">This is a link</a></li>
 	<li><a href="#">This is a link</a></li>
 </ul>
-</nav>
 </footer>
 
 </div><!--END OF CONTAINER-->
