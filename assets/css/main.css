@@ -40,6 +40,7 @@ html {
 body {
 	min-height: 100%;
 	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing: grayscale;/* For FIREFOX Bold weight issue*/
 	font-smoothing:antialiased;
 	text-rendering:optimizeLegibility;
 	font-family: Helvetica, Helvetica Neue, Arial; /* Default Body Font */
@@ -79,7 +80,6 @@ figcaption{
 	}
 .clearfix {
     *zoom: 1;
-    overflow: hidden;/*EQUAL HEIGHT COLUMNS*/
 	}
 /* ==========================================================================
    LINK STYLES
@@ -168,8 +168,6 @@ section.box{
 .fifth{
 	margin:0;
 	float:left;
-	margin-bottom: -99999px;/*EQUAL HEIGHT COLUMNS*/
-	padding-bottom: 99999px;/*EQUAL HEIGHT COLUMNS*/
 	}
 .single{
 	width:100%;
