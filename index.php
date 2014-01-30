@@ -7,12 +7,17 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Boilerplate Multimedia HTML5 Framework</title>
+<title>Piece of Cake HTML5 Framework</title>
 <meta name="description" content="">
-<meta name="viewport" content="width=device-width">
+<!--Responsive Viewport-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-<link rel="stylesheet" href="assets/css/main.css"/>
+<!-- CSS-->
+<link href="assets/css/main.css" rel="stylesheet" media="screen" />
+<!--[if IE 7]><link href="assets/css/ie7.css" rel="stylesheet" media="screen" type="text/css"><![endif]-->
+<!--[if IE 8]><link href="assets/css/ie8.css" rel="stylesheet" media="screen" type="text/css"><![endif]-->
+
+<!--[if IE 9]><link href="assets/css/ie9.css" rel="stylesheet" media="screen" type="text/css"><![endif]-->
 
 <!--JQUERY CODES GO HERE -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
