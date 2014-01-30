@@ -17,8 +17,6 @@
 <!--[if IE 7]><link href="assets/css/ie7.css" rel="stylesheet" media="screen" type="text/css"><![endif]-->
 <!--[if IE 8]><link href="assets/css/ie8.css" rel="stylesheet" media="screen" type="text/css"><![endif]-->
 
-<!--[if IE 9]><link href="assets/css/ie9.css" rel="stylesheet" media="screen" type="text/css"><![endif]-->
-
 <!--JQUERY CODES GO HERE -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <!--[if lt IE 9]><script src="assets/js/modernizr.js"></script><![endif]-->
