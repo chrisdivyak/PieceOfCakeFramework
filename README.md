@@ -1,7 +1,7 @@
 # Piece of Cake Framework
 
 
-### ***This Code is Deprecated and no longer being support. Use at your own risk.***
+### ***This Code is Deprecated and no longer being supported. Use at your own risk.***
 
 A simple HTML5/CSS3 framework that keeps 508 accessibility guidelines in tact. 
 
