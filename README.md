@@ -1,5 +1,6 @@
-<img src="https://code-baker.com/assets/images/pieceofcakeblack-logo.jpg" alt="Piece of Cake Framework"/>
-===============================
+# Piece of Cake Framework
+<hr/>
+
 ### This Code is Deprecated and no longer being support. Use at your own risk.
 
 A simple HTML5/CSS3 framework that keeps 508 accessibility guidelines in tact. 
